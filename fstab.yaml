@@ -1,0 +1,5 @@
+mountpoints:
+  /:
+    url: "https://author-p238759-e2392860.adobeaemcloud.com/bin/franklin.delivery/mb7799/mbtest-oneadobe-4-citisignal-aem-accs/main"
+    type: "markup"
+    suffix: ".html"
